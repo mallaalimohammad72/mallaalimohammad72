@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malla Ali Mohammad</h1>
+<h1 align="center">Hi 👋, I'm Malla Ali Mohammad S/o Mohammad Yousuf Malla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallalimohammad72&label=Profile%20views&color=0e75b6&style=flat" alt="mallalimohammad72" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Html,Css and JS**
 
-- 📫 How to reach me **alimmalla2009@gmaoil.com**
+- 📫 How to reach me **alimmalla2009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
