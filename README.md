@@ -14,7 +14,7 @@
 <a href="https://twitter.com/alimmalla72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimmalla72" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/mallalimohammad72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mallalimohammad72" height="30" width="40" /></a>
 <a href="https://fb.com/nalayak baccha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nalayak baccha" height="30" width="40" /></a>
-<a href="https://instagram.com/kashur_kout72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashur_kout72" height="30" width="40" /></a>
+<a href="https://instagram.com/kashur_kout72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MallaEditz" height="30" width="40" /></a>
 <a href="https://youtube.com/@acn-shorts?si=GbR7LbpCgG9gMGDS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@acn-shorts?si=z-zo3dslr9judwhr" height="30" width="40" /></a>
 </p>
 
